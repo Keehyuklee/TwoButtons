@@ -1,6 +1,6 @@
 # TwoButtons
 
-This project is to build two buttons that display tooltips when user click them.
+This project is to build two buttons that display tooltips when a user click them.
 
 # Steps to run
 
